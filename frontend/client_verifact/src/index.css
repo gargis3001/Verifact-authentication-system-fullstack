@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+@import 'react-toastify/dist/ReactToastify.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* Set the default font for the entire application */
+  font-family: 'Outfit', sans-serif;
+}
+
+
+.Toastify__toast-container {
+  font-family: 'Outfit', sans-serif;
+}
+
+.Toastify__toast--success {
+  background-color: #dcfce7; /* Light green */
+  color: #16a34a; /* Darker green */
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.Toastify__toast--error {
+  background-color: #fee2e2; /* Light red */
+  color: #dc2626; /* Darker red */
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.Toastify__toast--info {
+  background-color: #e0f2fe; /* Light blue */
+  color: #0284c7; /* Darker blue */
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.Toastify__progress-bar {
+  background-color: #facc15 !important; /* Yellow for progress bar */
+}

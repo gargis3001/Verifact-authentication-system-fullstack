@@ -67,7 +67,7 @@ Each part of the project has its own comprehensive README:
 - 📦 **[Backend Documentation](./backend/README.md)**: Java + Spring Boot REST API
   
 
-- 🎨 **[Frontend Documentation](./frontend/README.md)**: React + Vite SPA  
+- 🎨 **[Frontend Documentation](./frontend/README.md)**: React + Vite  
  
 
 

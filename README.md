@@ -96,6 +96,6 @@ Each part of the project has its own comprehensive README:
 
 **⭐ If this project helped you, please give it a star!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/Verifact-authentication-system-fullstack?style=social)](https://github.com/yourusername/Verifact-authentication-system-fullstack)
+[![GitHub stars](https://img.shields.io/github/stars/gargis3001/Verifact-authentication-system-fullstack?style=social)](https://github.com/gargis3001/Verifact-authentication-system-fullstack)
 
 </div>

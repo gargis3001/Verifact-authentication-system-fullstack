@@ -64,10 +64,10 @@ The Verifact system follows a **layered Spring Boot architecture** with:
 
 Each part of the project has its own comprehensive README:
 
-- 📦 **[Backend Documentation](./backend/README.md)**: Java + Spring Boot REST API
+- 📦 **[backend/README](backend/Verifact/README.md)**: Java + Spring Boot REST API
   
 
-- 🎨 **[Frontend Documentation](./frontend/README.md)**: React + Vite  
+- 🎨 **[frontend/README](frontend/client_verifact/README.md)**: React + Vite  
  
 
 

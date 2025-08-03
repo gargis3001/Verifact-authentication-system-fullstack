@@ -1,4 +1,4 @@
-## 🔧 Verifact Backend - Spring Boot Authentication API
+### 🔧 Verifact Backend - Spring Boot Authentication API
 
 Java Spring Boot backend for the **Verifact** authentication system. This service powers the RESTful APIs that manage user authentication, registration, and profile management, supporting a React-based frontend.
 
@@ -58,11 +58,11 @@ The backend exposes RESTful APIs over HTTP on `localhost:8080`. These APIs follo
 4. **Run**: `mvn spring-boot:run`
 5. **Access**: API available at `http://localhost:8080`
 
-## 📁 Architecture
+### 📁 Architecture
 
 Built with Spring Boot conventions for maintainable, scalable authentication services.
 
-## ✅ Summary
+### ✅ Summary
 
 The Verifact backend is a cleanly structured Spring Boot application designed to serve a comprehensive authentication system via REST APIs. It supports robust security practices with JWT-based stateless authentication, proper configuration isolation, modular architecture, and seamless integration readiness for modern React frontend frameworks.
 

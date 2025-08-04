@@ -82,6 +82,9 @@ Each part of the project has its own comprehensive README:
 | `/update-password` | POST | Password update | ❌ |
 | `/profile` | GET/PUT | Profile management | ✅ JWT |
 
+### Screenshots
+To see the application in action, check out the [images folder](app_images).
+
 
 
 ### 🙌 Acknowledgements
